@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Alt text](https://github-readme-stats.vercel.app/api?icon_color=586069&hide_border=true&title_color=a0a9af&username=WindrunnerMax&show_icons=true&tdsourcetag=s_pctim_aiomsg)
 <!--
 **WindrunnerMax/WindrunnerMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
