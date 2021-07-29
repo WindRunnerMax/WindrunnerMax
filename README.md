@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 </div>
 -->
 
-![Czy's GitHub Stats](https://github-readme-stats.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=WindrunnerMax&show_icons=true&tdsourcetag=s_pctim_aiomsg)
+![Czy's GitHub Stats](https://github-readme-stats-f9i9jhoar-touchczy.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=WindrunnerMax&show_icons=true&tdsourcetag=s_pctim_aiomsg&count_private=true)
