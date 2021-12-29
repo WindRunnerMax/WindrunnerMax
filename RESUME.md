@@ -62,7 +62,7 @@
 **2020-06　至　今　　　　　　　　　　　文本复制脚本**
 * 个人开发的油猴的脚本，累计70万次安装
 * 解除网站不允许复制的限制，主要用于某度文库、道客某某等
-* 主要策略有阻止冒泡、阻止捕获、解除CSS选中限制、解密JS调用复制策略等
+* 主要策略有阻止冒泡、阻止捕获、解除CSS选中限制、追踪Js调用复制与Hook策略等
 * 安装地址: https://greasyfork.org/zh-CN/scripts/405130
 * 开源地址: https://github.com/WindrunnerMax/TKScript
 
