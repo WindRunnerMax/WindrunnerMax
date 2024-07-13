@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div style="display: flex;align-items: flex-end;">
-    <img alt="Czy's GitHub Stats" src="https://github-readme-stats-git-master.dreace.vercel.app/api?username=WindrunnerMax&icon_color=666&hide_border=true&title_color=333&show_icons=true&count_private=true" />
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindrunnerMax&layout=compact&hide_border=true&title_color=333&show_icons=true&count_private=true" />
-</div>
+https://github.com/anuraghazra/github-readme-stats
 -->
 
-![Czy's GitHub Stats](https://github-readme-stats-touchczy.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=WindrunnerMax&show_icons=true&tdsourcetag=s_pctim_aiomsg&count_private=true&include_all_commits=true)
+![Czy's GitHub Stats](https://github-readme-stats-touchczy.vercel.app/api?icon_color=333&hide_border=true&title_color=333&username=WindrunnerMax&show_icons=true&include_all_commits=true)
